@@ -16,7 +16,7 @@ function sendMail(params) {
                 alert("ERROR")
             } else {
                 if (res.response = "OK") {
-                    alert("SUCCESSFUL! ");
+                    alert("ThankYou! Your message has been sent ");
                 } else {
                     alert("FAILURE!");
                 }
