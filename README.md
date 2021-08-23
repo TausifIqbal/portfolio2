@@ -8,5 +8,5 @@ Tech used HTML, CSS , JQuery.
 
 ## click on link		
 
-[https://tausifiqbal.github.io/portfolio2/]([https://tausifiqbal.github.io/portfolio2/)
+[https://tausifiqbal.github.io/portfolio2/](https://tausifiqbal.github.io/portfolio2/)
 
